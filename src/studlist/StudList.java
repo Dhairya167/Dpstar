@@ -4,7 +4,7 @@ package studlist;
 import java.util.Scanner;
 
 /**
- *
+ *How are you?
  * @author Megha Patel
  */
 public class StudList {
